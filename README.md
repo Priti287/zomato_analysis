@@ -1,5 +1,7 @@
 # zomato_analysis
+![image alt](https://github.com/Priti287/coffee_sales_analysis/blob/07884ae0fa2285fd901826d6290ef7b0b07affc2/image.png)
 
+ 
 1. # Introduction
 
 The Zomato Analytics Dashboard aims to provide insights into food delivery performance, restaurant review
